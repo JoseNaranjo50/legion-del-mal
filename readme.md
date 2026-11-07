@@ -8,3 +8,6 @@ Somos superheroes mal identificados.
 
 ### Thanos: 
 Villano de marvel
+
+### Joker: 
+Villano de Batman.
