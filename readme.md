@@ -11,3 +11,7 @@ Villano de marvel
 
 ### Joker: 
 Villano de Batman.
+
+
+### Magneto:
+Villano de DC
