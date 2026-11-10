@@ -33,6 +33,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 - **Loki** — Engaño, ilusiones y diplomacia hostil
 - **Catwoman** — Robos de alta precisión
 - **Venom** — Fuerza bruta y operaciones de intimidación
+- **Green Goblin** — Es verde e inteligente.
 
 ## Reglas de la Legión
 
