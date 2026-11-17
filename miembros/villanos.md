@@ -1,6 +1,8 @@
 #Villanos
 
 1. Guason
-2. loki
-3. dos caras
+2. Loki
+3. Dos caras
+4. Harly Quinn
+5. Joker
    
