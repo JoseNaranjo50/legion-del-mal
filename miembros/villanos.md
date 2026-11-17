@@ -5,6 +5,8 @@
 3. Dos caras
 4. Harly Quinn
 5. Joker
+6. Duende verde
+7. Darkseid
    
 
 ## Financiamiento
