@@ -6,3 +6,8 @@
 4. Harly Quinn
 5. Joker
    
+
+## Financiamiento
+1. Dinero de bancos
+2. joyas robadas
+3. ligotes de oro
