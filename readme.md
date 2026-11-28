@@ -4,7 +4,7 @@
 ![Release](https://img.shields.io/github/v/release/JoseNaranjo50/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/JoseNaranjo50/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/JoseNaranjo50/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/JoseNaranjo50/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/JoseNaranjo50/legion-del-mal?cacheSeconds=60)
 
 
 # 🦹‍♂️ La Legión del Mal
